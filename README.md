@@ -3,3 +3,6 @@
 
 ![International food](IMAGES/matthew-scott-illustration-childrens-cook-food-travel-around-the-world-dishes.jpeg)
 
+## Wireframe
+### **Map of the application
+![Wireframe](IMAGES/RestRant Wireframe.drawio (4).png)
