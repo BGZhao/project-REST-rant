@@ -6,4 +6,4 @@
 ## Wireframe
 ### **Map of the application**
 
-![Map](IMAGES/Wireframe.jpeg)
+![Structure](https://github.com/BGZhao/project-REST-rant/blob/main/Wireframe.jpeg?raw=true)
