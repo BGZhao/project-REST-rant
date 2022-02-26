@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T05:52:43.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.4" etag="jyjSMlI1Ik7lDrW2dYp_" type="github"><diagram id="-mO24NNY9JBgSe0Glu7y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-26T06:55:19.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="aKA_PUMNM59ZBQhZxxwc" version="16.6.4" type="github">
+  <diagram id="-mO24NNY9JBgSe0Glu7y" name="Page-1">
+    <mxGraphModel dx="1298" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ynF3PQkbgIaylmHGljq8-1" value="Welcome Page" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="10" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-3" value="A list of all the restaurants" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-4" value="Read reviews" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69.5" y="500" as="sourcePoint" />
+            <mxPoint x="69.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-8" value="404" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-9" value="Specific Restaurant" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="440" as="sourcePoint" />
+            <mxPoint x="430" y="440" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="319.5" as="sourcePoint" />
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-13" value="Add/Remove a restaurant" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-14" value="Specific Item in the menu" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="570" as="sourcePoint" />
+            <mxPoint x="425" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-24" value="Read reviews" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="439.5" as="sourcePoint" />
+            <mxPoint x="640" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-27" value="Add/Remove a review" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;width=12;endSize=5.09;endWidth=15;" edge="1" parent="1" target="ynF3PQkbgIaylmHGljq8-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="620" as="sourcePoint" />
+            <mxPoint x="300" y="640" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-33" value="Add /remove item" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynF3PQkbgIaylmHGljq8-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;width=10;endSize=6.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="490" as="sourcePoint" />
+            <mxPoint x="249.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
