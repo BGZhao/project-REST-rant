@@ -5,4 +5,4 @@
 
 ## Wireframe
 ### **Map of the application**
-![Wireframe](IMAGES/RestRant Wireframe.drawio (4).png)
+![structure](IMAGES/Screen Shot 2022-02-26 at 1.41.55 AM.png)
