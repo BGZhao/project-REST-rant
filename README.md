@@ -6,4 +6,4 @@
 ## Wireframe
 ### **Map of the application**
 
-![Wireframe](IMAGES/Wireframe.jpeg)
+![Map](IMAGES/Wireframe.jpeg)
