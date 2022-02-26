@@ -5,4 +5,5 @@
 
 ## Wireframe
 ### **Map of the application**
-![structure](IMAGES/Screen Shot 2022-02-26 at 1.41.55 AM.png)
+
+![Wireframe](IMAGES/Wireframe.jpeg)
